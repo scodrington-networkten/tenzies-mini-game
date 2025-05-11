@@ -1,2 +1,3 @@
-# tenzies-mini-game
-Tenzies, a dice rolling mini-game powered by React
+# Tenzies with React
+
+This sample project showcases a small Tenzies dice game using JS react
